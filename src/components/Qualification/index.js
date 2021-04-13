@@ -3,7 +3,7 @@ import SmallHeading from "../UI/SmallHeading";
 import MediumHeading from "../UI/MediumHeading";
 import Button from "../UI/Button";
 import Tile from "../UI/Tile";
-import me from "../../assets/images/me-left.png";
+import me from "../../assets/images/shubhamLeft.png";
 
 import "./style.css";
 
@@ -33,29 +33,21 @@ const Qualification = (props) => {
               borderRadius: "20px",
             }}
           >
-            <div className="mlr-10">
-              <Button label="Hire Me" />
-            </div>
-            <div className="mlr-10">
-              <Button label="Download CV" inverse={true} />
-            </div>
           </div>
         </div>
         <div>
           <Tile
-            title="MAKAUT"
+            title="B.Tech"
             mediumTitle="Computer Science & Engg."
-            desc="lorem ipsum text"
+            desc="(BIT,Meerut)"
           />
           <Tile
-            title="MAKAUT"
-            mediumTitle="Computer Science & Engg."
-            desc="lorem ipsum text"
+            title="12TH"
+            mediumTitle="66 %"
           />
           <Tile
-            title="MAKAUT"
-            mediumTitle="Computer Science & Engg."
-            desc="lorem ipsum text"
+            title="10TH"
+            mediumTitle="76 %"
           />
         </div>
       </div>

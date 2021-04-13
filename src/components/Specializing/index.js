@@ -13,13 +13,6 @@ import { colors } from "../../style";
 const Specializing = (props) => {
   const skills = [
     {
-      skillName: "HTML/CSS",
-      desc: "Hands on experience in Html/Css",
-      value: 70,
-      textColor: colors.primaryColor,
-      pathColor: "#f2a154",
-    },
-    {
       skillName: "JavaScript",
       desc: "Hands on experience in JavaScript",
       value: 90,
@@ -27,46 +20,39 @@ const Specializing = (props) => {
       pathColor: "#f9f871",
     },
     {
-      skillName: "ReactJS",
-      desc: "Hands on experience in ReactJS",
+      skillName: "React",
+      desc: "Hands on experience in React",
       value: 90,
       textColor: colors.primaryColor,
       pathColor: "#00af91",
     },
     {
-      skillName: "jQuery",
-      desc: "Hands on experience in Html/Css",
+      skillName: "React-Redux",
+      desc: "Hands on experience in React-Redux",
       value: 60,
       textColor: colors.primaryColor,
       pathColor: "#845ec2",
     },
     {
-      skillName: "Bootstrap",
-      desc: "Hands on experience in Html/Css",
+      skillName: "Hooks",
+      desc: "Hands on experience in React-Hooks",
       value: 70,
       textColor: colors.primaryColor,
       pathColor: "#845ec2",
     },
     {
-      skillName: "NodeJS",
-      desc: "Hands on experience in Html/Css",
+      skillName: "Context-Api",
+      desc: "Hands on experience in Context-Api",
       value: 70,
       textColor: colors.primaryColor,
       pathColor: "#54e346",
     },
     {
-      skillName: "PHP",
-      desc: "Hands on experience in Html/Css",
-      value: 80,
+      skillName: "Express.js",
+      desc: "little Hands on experience in Express",
+      value: 50,
       textColor: colors.primaryColor,
-      pathColor: "#111d5e",
-    },
-    {
-      skillName: "Mysql",
-      desc: "Hands on experience in Html/Css",
-      value: 70,
-      textColor: colors.primaryColor,
-      pathColor: "#f88f01",
+      pathColor: "#54e346",
     },
   ];
 

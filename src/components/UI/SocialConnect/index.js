@@ -14,13 +14,13 @@ const SocialConnect = (props) => {
       <a className="socialLink" href="#">
         <img src={socialIcons.facebook} alt="" />
       </a>
-      <a className="socialLink" href="#">
+      <a className="socialLink" href="https://www.instagram.com/samtrivedi789/">
         <img src={socialIcons.instagram} alt="" />
       </a>
       <a className="socialLink" href="#">
         <img src={socialIcons.youtube} alt="" />
       </a>
-      <a className="socialLink" href="#">
+      <a className="socialLink" href="https://www.linkedin.com/in/shubham-trivedi-50b639132/">
         <img src={socialIcons.linkedin} alt="" />
       </a>
     </div>

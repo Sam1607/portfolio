@@ -33,18 +33,16 @@ const Testimonials = (props) => {
               <img src={profilePicture} alt="" />
             </div>
             <div className="mlr-10">
-              <p className="primaryColor font-16">Rizwan Khan</p>
+              <p className="primaryColor font-16">Shubham Trivedi</p>
               <p className="textColor font-14 bold-600">Software Developer</p>
             </div>
           </div>
           <p className="mtb-10 grey">
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. The point
-            of using Lorem Ipsum is that it has a more-or-less normal
-            distribution of letters, as opposed to using 'Content here, content
-            here', making it look like readable English. Many desktop publishing
-            packages and web page editors now use Lorem Ipsum as their default
-            model text
+            React. js Developers design and implement user interface components
+            for JavaScript-based web and mobile applications using the React
+            open-source library ecosystem. These skilled front-end developers
+            are involved in all stages of interface component design, from
+            conception through to final testing.
           </p>
         </Card>
         <div data-aos="fade-right" className="testimonialImgContainer">
@@ -57,7 +55,7 @@ const Testimonials = (props) => {
           Have any project in mind?{" "}
           <span className="primaryColor">Say Hello At</span>
         </p>
-        <p className="text-center font-25">rizwankhan.august16@gmail.com</p>
+        <p className="text-center font-25">shubhamtrivedi0002@gmail.com</p>
       </Card>
     </div>
   );
